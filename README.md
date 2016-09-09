@@ -12,3 +12,6 @@ is based off of the Head First Design Patterns chapter 1.
 This is located in src/Observer and shows the benefits of using
 an Observer pattern. The example is taken from Head First Design
 Patterns using a Weather Data fictional program.
+
+## Decorator
+Example of a Decorator pattern using a Weapon and Damage modifiers as examples.
