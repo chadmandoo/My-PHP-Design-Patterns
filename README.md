@@ -15,3 +15,6 @@ Patterns using a Weather Data fictional program.
 
 ## Decorator
 Example of a Decorator pattern using a Weapon and Damage modifiers as examples.
+
+## Singleton
+Example of a very basic Singleton pattern. One of the easiest patterns to implement.
