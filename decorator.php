@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * @file
+ * Demonstrating Decorator pattern.
+ */
 require $_SERVER['DOCUMENT_ROOT'] . '/vendor/autoload.php';
 
 use Patterns\Decorator\Weapon\Sword;
