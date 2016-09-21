@@ -6,6 +6,9 @@ in how certain patterns work in php.
 ## Active Record Pattern
 Example of an Active Record Pattern for centralize database access.
 
+## Adapter Pattern
+Adapter pattern using Sendgrid API and Twilio.
+
 ## Strategic Pattern (Composition over Inheritance)
 This is located in src/Composition and shows the benefits of
 using composition over inheritance. This example uses a Duck and
